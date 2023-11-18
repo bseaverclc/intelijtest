@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello world!");
       System.out.println("Goodbye");
       System.out.println("Again");
+        System.out.println("Wow");
         Scanner scan = new Scanner(new File("files/numbers"));
         while(scan.hasNext()) {
             String stuff = scan.next();
